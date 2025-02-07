@@ -888,7 +888,7 @@ html {
   }
   html {
     font-size: 10px;
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: rgb(137 8 8 / 0%);
   }
   body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -6513,7 +6513,7 @@ html {
     background-color: transparent !important;
   }
   
-  /*Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½ÃŽÂªÃ¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã“Â¦ÃŠÂ½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½, Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã’ÂªÃ¯Â¿Â½ÃžÂ¸Ã¯Â¿Â½*/
+  /*ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÅ½Ã‚ÂªÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€œÃ‚Â¦ÃƒÅ Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½, ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€™Ã‚ÂªÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÅ¾Ã‚Â¸ÃƒÂ¯Ã‚Â¿Ã‚Â½*/
   
   .label-primary {
       background-color: #018AD8;
@@ -6947,7 +6947,7 @@ html {
       font-style:italic;
       padding: 2px 0;
   }
-  /*IE10 Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½ÃŠÂ¾Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã”Â´Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã‰Â¾Ã¯Â¿Â½Ã¯Â¿Â½ÃÂ¼Ã¯Â¿Â½Ã¯Â¿Â½*/
+  /*IE10 ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÅ Ã‚Â¾ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€Ã‚Â´ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€°Ã‚Â¾ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂÃ‚Â¼ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½*/
   #ko_grid_search_txt::-ms-clear {
       display: none;
   }
@@ -7247,7 +7247,7 @@ html {
       height: 60px;
       line-height: 60px;
   }
-  /*Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã…Â¿Ã¯Â¿Â½ÃŠÂ¼*/
+  /*ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€¦Ã‚Â¿ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÅ Ã‚Â¼*/
   #smsChatRoom {
       width: 100%;
       float: left;
@@ -7928,7 +7928,7 @@ html {
   .showFullHeight{
       white-space: normal;
   }
-  /*Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã…Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
+  /*ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€¦Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½*/
   #topContainer{
       padding-bottom: 10px;
   
@@ -7957,7 +7957,7 @@ html {
       left: 40px;
       top: 0;
   }
-  /* home Ã¯Â¿Â½Ã¯Â¿Â½ÃŠÂ¼*/
+  /* home ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÅ Ã‚Â¼*/
   #home_control{
       color: #fff;
       margin: 4px 0 0;
@@ -8102,7 +8102,7 @@ html {
   }
   
   
-  /* home Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
+  /* home ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½*/
   .color_block{
       display: inline-block;
       width: 20px;
@@ -8121,7 +8121,7 @@ html {
       color: #CC0000;
   }
   
-  /* Ã¯Â¿Â½Ã¯Â¿Â½Ã’Â³Ã¯Â¿Â½Ã¯Â¿Â½ÃŠÂ¼ */
+  /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€™Ã‚Â³ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÅ Ã‚Â¼ */
   .ko-grid-pageLinks {
       display: inline-block;
       padding-left: 0;
@@ -8179,8 +8179,8 @@ html {
       border-color: #dddddd;
       cursor: not-allowed;
   }
-  /* Ã¯Â¿Â½Ã¯Â¿Â½Ã’Â³Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½ */
-  /* Ã¯Â¿Â½Ã¯Â¿Â½ÃÂ´ nav tabs Ã¯Â¿Â½Ã¯Â¿Â½ÃŠÂ¼ */
+  /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€™Ã‚Â³ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ */
+  /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂÃ‚Â´ nav tabs ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÅ Ã‚Â¼ */
   .nav-tabs > li > a, .nav-tabs.nav-justified > li > a{
       -webkit-border-radius: 0;
       -moz-border-radius: 0;
@@ -8235,7 +8235,7 @@ html {
       border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
       filter: progid:DXImageTransform.Microsoft.gradient(enabled='true', startColorstr='#C4D52A', endColorstr='#C4D52A', GradientType=0);
   }
-  /* Ã¯Â¿Â½Ã¯Â¿Â½ÃÂ´ nav tabs Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½ */
+  /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂÃ‚Â´ nav tabs ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ */
   #result-overlay .simplemodal-data, #result-overlay .simplemodal-wrap, #result-overlay .alert{
       border-radius: 8px;
       -moz-border-radius: 8px;
@@ -8245,7 +8245,7 @@ html {
       -webkit-box-shadow: 0 3px 5px #999;
   }
   
-  /* Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½ÃŠÂ¼ */
+  /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÅ Ã‚Â¼ */
   .form-note .notes-title {
       background: url("../img/help.png") no-repeat scroll left center transparent;
       height: 30px;
@@ -8280,7 +8280,7 @@ html {
   .form-body .form-note li.no-style {
       background: none;
   }
-  /* Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½ */
+  /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ */
   .border-color-transition {
       -moz-transition: border-color .5s ease-in;
       -webkit-transition: border-color .5s ease-in;
@@ -8388,13 +8388,13 @@ html {
       color: white;
       margin: -1px 0 30px -11px;
       width: 940px;
-      filter: progid:DXImageTransform.Microsoft.gradient(GradientType = 1, startColorstr = #C4D52A, endColorstr = #C4D52A); 
-      background: -webkit-gradient(linear, 0 0, 0 100%, from(#C4D52A), to(#C4D52A));
-      background: -webkit-linear-gradient(left top, #C4D52A , #C4D52A); /* Safari 5.1 - 6.0 */
+      filter: progid:DXImageTransform.Microsoft.gradient(GradientType = 1, startColorstr = #C4D52A, endColorstr = #C4D52A);
+      background: -webkit-gradient(linear, 0 0, 0 100%, from(#0D98BA), to(#0D98BA));
+      background: -webkit-linear-gradient(left top, #0D98BA , #0D98BA); /* Safari 5.1 - 6.0 */
       background: -o-linear-gradient(bottom right, #C4D52A , #C4D52A); /* Opera 11.1 - 12.0 */
-      background: -moz-linear-gradient(bottom right, #C4D52A , #C4D52A); /* Firefox 3.6 - 15 */   
+      background: -moz-linear-gradient(bottom right, #C4D52A , #C4D52A); /* Firefox 3.6 - 15 */
       background: -ms-linear-gradient(left, #C4D52A, #0096D7);
-      background: linear-gradient(to bottom right, #C4D52A  , #C4D52A); /* Ã¯Â¿Â½Ã¯Â¿Â½Ã—Â¼Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â·Â¨Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
+      background: linear-gradient(to bottom right, #0D98BA  , #0D98BA); /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€”Ã‚Â¼ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â·Ã‚Â¨ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½*/
   }
   
   .header-row .form-title {
@@ -8410,10 +8410,10 @@ html {
       border: 1px solid #fff;
       border-bottom:0px;
       border-radius: 10px;
-      background: -webkit-linear-gradient(top, #FAFAD2 , #fff); /* Safari 5.1 - 6.0 */
+      background: -webkit-linear-gradient(top, #ffffff , #ffffff); /* Safari 5.1 - 6.0 */
       background: -o-linear-gradient(bottom, #FAFAD2 , #fff); /* Opera 11.1 - 12.0 */
       background: -moz-linear-gradient(bottom, #FAFAD2 , #fff); /* Firefox 3.6 - 15 */
-      background: linear-gradient(to bottom, #FAFAD2 , #fff); /* Ã¯Â¿Â½Ã¯Â¿Â½Ã—Â¼Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â·Â¨Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
+      background: linear-gradient(to bottom,  #808080 ,  #808080); /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€”Ã‚Â¼ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â·Ã‚Â¨ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½*/
       }
   
   .form-title-multi h1 {
@@ -8571,7 +8571,7 @@ html {
       background: -webkit-linear-gradient(left top, #70EBE6 , #059EC4); /* Safari 5.1 - 6.0 */
       background: -o-linear-gradient(bottom right, #70EBE6 , #059EC4); /* Opera 11.1 - 12.0 */
       background: -moz-linear-gradient(bottom right, #70EBE6 , #059EC4); /* Firefox 3.6 - 15 */
-      background: linear-gradient(to bottom right, #70EBE6 , #059EC4); /* Ã¯Â¿Â½Ã¯Â¿Â½Ã—Â¼Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â·Â¨Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
+      background: linear-gradient(to bottom right, #70EBE6 , #059EC4); /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€”Ã‚Â¼ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â·Ã‚Â¨ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½*/
   }
   .connected_devices_container .item_icon{
       background: url(../img/new/device.png) center center no-repeat;
@@ -8595,7 +8595,7 @@ html {
       background: -webkit-linear-gradient(left top, #36A4FF , #0877D4); /* Safari 5.1 - 6.0 */
       background: -o-linear-gradient(bottom right, #36A4FF , #0877D4); /* Opera 11.1 - 12.0 */
       background: -moz-linear-gradient(bottom right, #36A4FF , #0877D4); /* Firefox 3.6 - 15 */
-      background: linear-gradient(to bottom right, #36A4FF , #0877D4); /* Ã¯Â¿Â½Ã¯Â¿Â½Ã—Â¼Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â·Â¨Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
+      background: linear-gradient(to bottom right, #36A4FF , #0877D4); /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€”Ã‚Â¼ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â·Ã‚Â¨ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½*/
   }
   .network_control_container .item_icon{
       background: url(../img/new/router.png) center center no-repeat;
@@ -8611,7 +8611,7 @@ html {
       background: -webkit-linear-gradient(left top, #D014FE , #7109D5); /* Safari 5.1 - 6.0 */
       background: -o-linear-gradient(bottom right, #D014FE , #7109D5); /* Opera 11.1 - 12.0 */
       background: -moz-linear-gradient(bottom right, #D014FE , #7109D5); /* Firefox 3.6 - 15 */
-      background: linear-gradient(to bottom right, #D014FE , #7109D5); /* Ã¯Â¿Â½Ã¯Â¿Â½Ã—Â¼Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â·Â¨Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/ 
+      background: linear-gradient(to bottom right, #D014FE , #7109D5); /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€”Ã‚Â¼ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â·Ã‚Â¨ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½*/ 
       text-align: center;
   }
   .internet_status_container .item_icon_connect{
@@ -8639,7 +8639,7 @@ html {
       background: -o-linear-gradient(bottom right, #FCCA53 , #F45406); /* Opera 11.1 - 12.0 */
       background: -moz-linear-gradient(bottom right, #FCCA53 , #F45406); /* Firefox 3.6 - 15 */
       background: -ms-linear-gradient(left, #FCCA53, #F45406);   
-      background: linear-gradient(to bottom right, #FCCA53 , #F45406); /* Ã¯Â¿Â½Ã¯Â¿Â½Ã—Â¼Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â·Â¨Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
+      background: linear-gradient(to bottom right, #FCCA53 , #F45406); /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€”Ã‚Â¼ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â·Ã‚Â¨ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½*/
       
   }
   .device_info_container{
@@ -8651,7 +8651,7 @@ html {
       background: -webkit-linear-gradient(left top, #B454F6 , #0096D7); /* Safari 5.1 - 6.0 */
       background: -o-linear-gradient(bottom right, #B454F6 , #0096D7); /* Opera 11.1 - 12.0 */
       background: -moz-linear-gradient(bottom right, #B454F6 , #0096D7); /* Firefox 3.6 - 15 */
-      background: linear-gradient(to bottom right, #B454F6 , #0096D7); /* Ã¯Â¿Â½Ã¯Â¿Â½Ã—Â¼Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â·Â¨Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
+      background: linear-gradient(to bottom right, #B454F6 , #0096D7); /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€”Ã‚Â¼ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â·Ã‚Â¨ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½*/
   }
   .device_info_container_hastraffic{
       margin-left:20px;
@@ -8863,7 +8863,7 @@ html {
       background: -webkit-linear-gradient(left top, #000000 , #020202); /* Safari 5.1 - 6.0 */
       background: -o-linear-gradient(bottom right, #C4D52A , #C4D52A); /* Opera 11.1 - 12.0 */
       background: -moz-linear-gradient(bottom right, #C4D52A , #C4D52A); /* Firefox 3.6 - 15 */
-      background: linear-gradient(to bottom right, #000000 , #000000); /* Ã¯Â¿Â½Ã¯Â¿Â½Ã—Â¼Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â·Â¨Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
+      background: linear-gradient(to bottom right, #000000 , #000000); /* ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒâ€”Ã‚Â¼ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â·Ã‚Â¨ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½*/
   }
   .type_items ul{
       width: auto;
@@ -8941,7 +8941,7 @@ html {
       -moz-box-shadow: 0px 2px 4px rgba(172, 172, 172, 0.5);
       -ms-box-shadow: 0px 2px 4px rgba(172, 172, 172, 0.5);
       box-shadow: 0px 8px 10px rgba(172, 172, 172, 0.5);
-      background-color: #D7EA8E;    
+      background-color: #8e1c8f;
   }
   .backgroundColorWhite{
     background-color: white !important;

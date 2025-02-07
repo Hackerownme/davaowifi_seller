@@ -910,7 +910,7 @@ html {
     font-weight: bold;
   }
   a {
-    color: #C4D52A;
+    color: #000000;
     text-decoration: none;
     font-weight: bold;
   }
@@ -6302,23 +6302,23 @@ html {
       vertical-align: top;
   }
   .home-info-title{
-      background-color: #c4d52a;
-      color: #463737;
+      background-color: #0D98BA;
+      color: #fffbfb;
       height: 35px;
       line-height: 35px;
       font-size: 20px;
       margin-bottom: 5px;
-      border-bottom: 1px solid #c4d52a;
+      border-bottom: 1px solid #000000;
   }
   .home-info-subtitle{
       color: #333300;
       height: auto;
       font-weight:bold;
-      border-bottom: 1px solid #c4d52a;
+      border-bottom: 1px solid #3b3b3b;
       line-height: 1em;
       padding-bottom: 5px;
       font-size: 14px;
-      background-color: #D7EA8E;
+      background-color: #bbbbbb;
       border-radius: 6px;
   }
   .home-info-detail label{
@@ -8858,12 +8858,12 @@ html {
       -webkit-border-radius: 8px;
       -moz-border-radius: 8px;
       -ms-border-radius: 8px;
-      border-radius: 10px;    
-      filter: progid:DXImageTransform.Microsoft.gradient(GradientType = 1, startColorstr = #C4D52A, endColorstr = #C4D52A); 
-      background: -webkit-linear-gradient(left top, #C4D52A , #C4D52A); /* Safari 5.1 - 6.0 */
+      border-radius: 10px;
+      filter: progid:DXImageTransform.Microsoft.gradient(GradientType = 1, startColorstr = #C4D52A, endColorstr = #C4D52A);
+      background: -webkit-linear-gradient(left top, #000000 , #020202); /* Safari 5.1 - 6.0 */
       background: -o-linear-gradient(bottom right, #C4D52A , #C4D52A); /* Opera 11.1 - 12.0 */
       background: -moz-linear-gradient(bottom right, #C4D52A , #C4D52A); /* Firefox 3.6 - 15 */
-      background: linear-gradient(to bottom right, #C4D52A , #C4D52A); /* Ã¯Â¿Â½Ã¯Â¿Â½Ã—Â¼Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â·Â¨Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
+      background: linear-gradient(to bottom right, #000000 , #000000); /* Ã¯Â¿Â½Ã¯Â¿Â½Ã—Â¼Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â·Â¨Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
   }
   .type_items ul{
       width: auto;
@@ -8880,7 +8880,7 @@ html {
       display: table-cell;
       height: 60px;
       font-size: 16px;
-      color: #000;
+      color: #fff;
       vertical-align: middle;
       -webkit-transition: all ease-in .3s;
       -moz-transition: all ease-in .3s;
@@ -9650,7 +9650,7 @@ html {
 .signal-bar {
     width: 300px; /* Adjust the width of the signal bar */
     height: 25px; /* Height of the signal bar */
-    background-color: #f0f0f0; /* Background color of the signal bar */
+    background-color: #f3f3f3; /* Background color of the signal bar */
     border-radius: 5px; /* Rounded corners */
     overflow: hidden; /* Hide overflowing content */
 }
@@ -9666,7 +9666,7 @@ html {
 }
 
 .signal-strength.average {
-    background-color: #ffc107; /* Yellow color for average signal */
+    background-color: #f7c400; /* Yellow color for average signal */
 }
 
 .signal-strength.good {
@@ -9739,39 +9739,39 @@ p {
     color: #fff;
 }
 
-.prefix-link-1 { 
+.prefix-link-1 {
   font-weight: bold;
-  background-color: #c4d52a; 
+  background-color: #d52a70;
   color: #000; /* Text color set to white */
 } 
 
-.prefix-link-2 { 
+.prefix-link-2 {
   font-weight: bold;
-  background-color: #c4d52a; 
+  background-color: #5d2ad5;
   color: #000; /* Text color set to white */
 } 
 
 .prefix-link-3 {
   font-weight: bold;
-  background-color: #c4d52a; 
+  background-color: #03752c;
   color: #000; /* Text color set to white */
 } 
 
-.prefix-link-4 { 
+.prefix-link-4 {
   font-weight: bold;
-  background-color: #c4d52a; 
+  background-color: #d52a2a;
   color: #000; /* Text color set to white */
 } 
 
-.prefix-link-5 { 
+.prefix-link-5 {
   font-weight: bold;
-  background-color: #c4d52a; 
+  background-color: #2ad578;
   color: #000; /* Text color set to white */
 } 
 
-.prefix-link-6 { 
+.prefix-link-6 {
   font-weight: bold;
-  background-color: #c4d52a; 
+  background-color: #b1700c;
   color: #000; /* Text color set to white */
 } 
 .textfield1 {
@@ -9787,8 +9787,8 @@ p {
     margin-bottom: 10px;
     border: none;
     border-radius: 5px;
-    background-color: #c4d52a;
-    color: #000;
+    background-color: #9b1884;
+    color: #fffcfc;
     font-size: 14px; /* Reduced font size */
     cursor: pointer;
     transition: background-color 0.3s ease;
